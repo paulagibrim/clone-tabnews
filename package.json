@@ -9,7 +9,7 @@
   "license": "MIT",
   "description": "Implementação do tabnews!",
   "dependencies": {
-    "next": "^15.3.3",
+    "next": "^15.4.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
